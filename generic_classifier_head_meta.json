@@ -1,0 +1,1 @@
+{"class_size": 3, "embed_size": 1024, "pretrained_model": "DialoGPT-medium", "class_vocab": {"anger": 0, "joy": 1, "sadness": 2}, "default_class": 0}
